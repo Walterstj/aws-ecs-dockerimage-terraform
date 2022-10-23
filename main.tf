@@ -77,3 +77,7 @@ provider "aws" {
 }
 
 provider "docker" {}
+
+
+  
+# https://code.likeagirl.io/create-amazon-ecs-cluster-using-docker-image-with-terraform-d6108933fd7e
